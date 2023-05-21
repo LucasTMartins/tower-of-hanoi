@@ -30,7 +30,7 @@ public class Answer {
                 break;
 
             case 3:
-                if (s1.size() >= 3) {
+                if (s3.size() >= 3) {
                     System.out.println("A pilha 3 está cheia!");
                     break;
                 }
